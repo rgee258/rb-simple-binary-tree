@@ -1,1 +1,1 @@
-# rb-simple-binary-tree
+Creating a binary tree in Ruby following The Odin Project.
